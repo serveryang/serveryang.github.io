@@ -1,0 +1,15 @@
+.bg-color-light{margin-top:70px}.text-indent{text-indent:1em}.boxed-layout{padding:0;box-shadow:0 0 5px #ccc;margin-left:auto !important;margin-right:auto !important}
+.header-v6 .navbar-nav{text-align:center}.header-fixed .header-v6.header-classic-white .navbar-nav li{width:150px}
+.header-fixed .header-v6.header-classic-white .navbar-nav .active>a{background-color:#72c02c;color:white !important}
+.header-fixed .header-v6.header-classic-white .navbar-nav>li>a:hover{background-color:rgba(114,192,44,0.2);color:black !important}
+.header-v6 .dropdown-menu{min-width:150px}.header-v6 .dropdown-menu li>a:hover{background-color:#72c02c;color:white !important}
+body{background-color:#f7f7f7 no-repeat center center fixed !important;background-attachment:fixed !important;background-position:50% 0 !important;background-size:100% 100% !important}
+.default-bg-image{background-image:url('/public/images/background/2.jpg') !important;z-index:-200 !important}
+.content-sm{padding-top:50px !important}.full-screen{position:fixed;left:0;top:0;right:0;bottom:0;width:100%;height:100%;z-index:-1000 !important}
+.full-screen img{position:float;bottom:0;left:0;margin:0;right:0;top:0;height:100%;width:100%;-webkit-background-size:100% 100% !important;-moz-background-size:100% 100% !important;-o-background-size:100% 100% !important;background-size:100% 100% !important;-webkit-transition:background 2s ease-in-out !important;-moz-transition:background 2s ease-in-out !important;-o-transition:background 2s ease-in-out !important;-ms-transition:background 2s ease-in-out !important;transition:background 2s ease-in-out !important}
+.m-t-10{margin-top:10px}.m-t-40{margin-top:40px}.m-t-60{margin-top:60px}.btn-disabled{height:41px !important}
+.object{width:0;height:0;padding:0;margin:0;display:block}.blog-cover{width:55px !important;height:55px !important}
+.blog-item{height:90px}.blog-item:hover{z-index:99;transform:scale(1.05,1.05);box-shadow:0 0 30px rgba(114,192,44,0.5)}
+.blog-item:hover a:hover{text-decoration:none}img{max-width:100% !important}#content a{font-weight:bolder}
+.mobile-not-support-content{position:absolute;top:38%;left:15%;transform:scale(1.05,1.05);box-shadow:0 0 30px rgba(114,192,44,0.5)}
+.mobile-not-support-footer{position:absolute;bottom:0;width:100%}
